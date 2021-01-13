@@ -27,7 +27,10 @@ class City extends React.Component {
        .then((response) => {
          this.setState({data: response}) 
        })
-       .catch((error) => window.alert('city not found'));
+       .catch((error) => {
+           window.alert('city not found')
+           this.setState({data: []})
+        });
     }
 
 
