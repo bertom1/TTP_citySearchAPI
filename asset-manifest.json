@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TTP_citySearchAPI/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/TTP_citySearchAPI/static/js/main.58d6ca51.chunk.js",
+    "main.js.map": "/TTP_citySearchAPI/static/js/main.58d6ca51.chunk.js.map",
+    "runtime-main.js": "/TTP_citySearchAPI/static/js/runtime-main.dfb1ed6e.js",
+    "runtime-main.js.map": "/TTP_citySearchAPI/static/js/runtime-main.dfb1ed6e.js.map",
+    "static/js/2.0efe7d94.chunk.js": "/TTP_citySearchAPI/static/js/2.0efe7d94.chunk.js",
+    "static/js/2.0efe7d94.chunk.js.map": "/TTP_citySearchAPI/static/js/2.0efe7d94.chunk.js.map",
+    "static/js/3.bba07dfc.chunk.js": "/TTP_citySearchAPI/static/js/3.bba07dfc.chunk.js",
+    "static/js/3.bba07dfc.chunk.js.map": "/TTP_citySearchAPI/static/js/3.bba07dfc.chunk.js.map",
+    "index.html": "/TTP_citySearchAPI/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/TTP_citySearchAPI/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.0efe7d94.chunk.js.LICENSE.txt": "/TTP_citySearchAPI/static/js/2.0efe7d94.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfb1ed6e.js",
+    "static/js/2.0efe7d94.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.58d6ca51.chunk.js"
+  ]
+}
