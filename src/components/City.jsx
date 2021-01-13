@@ -19,7 +19,7 @@ class City extends React.Component {
         let cityInput = this.state.city
         let cityArr = cityInput.split(" ")
         cityInput =  cityArr.join("").toUpperCase()
-        const apiLink = 'http://ctp-zip-api.herokuapp.com/city/' + cityInput
+        const apiLink = 'https://ctp-zip-api.herokuapp.com/city/' + cityInput
         fetch(apiLink)
        .then((response) => {
            return response.json()
