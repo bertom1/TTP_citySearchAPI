@@ -9,11 +9,11 @@ class City extends React.Component {
             data: []
         }
     }
-
+    //updates state as the user types
     updateCity = (event) => {
         this.setState({city: event.target.value})
     }
-
+    //does api request when search button is clicked
     search = (event) => {
         event.preventDefault()
         let cityInput = this.state.city
