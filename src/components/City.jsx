@@ -1,5 +1,6 @@
 import React from 'react'
 import CityCard from './CityCard'
+import '../index.css'
 
 class City extends React.Component {
     constructor (props) {
